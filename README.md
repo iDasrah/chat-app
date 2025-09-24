@@ -61,4 +61,12 @@ chat-app/
 └─ server/    # API NestJS + Socket.IO
 ```
 
+---
+
+## Aperçu
+
+![chatapp_index](https://github.com/user-attachments/assets/33d9ebdb-c338-4b7a-8056-455eff68e324)
+![chatapp_chat](https://github.com/user-attachments/assets/182ce33c-63f1-4847-9ec6-feac9220931b)
+
+
 > 💡 **Conseil déploiement** : tu peux déployer le backend (NestJS) sur une plateforme comme Railway/Render/Heroku et le frontend (Vite/React) sur Vercel ou Netlify. Assure-toi simplement de mettre à jour `VITE_SERVER_URL` avec l'URL publique du backend.
